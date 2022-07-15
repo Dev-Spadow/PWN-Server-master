@@ -1,0 +1,43 @@
+-Fixed an issue where developers weren't excluded from NPC KC Reqs
+-Hopefully fixed an isssue with construction saves
+-Fixed the issue where CC's would not save
+-Help cc is now proper.
+-Might've fixed the issue where magic damage was casting incorrectly.
+-Fixed item enchancments not save
+-fixed Logs not saving
+
+-Updated refferal names on the interface
+
+-Increased the limit of the amount of people allowed in clan chat. From 100 to 500
+-Fixed an issue that allowed staff to toggle lootshare(To be removed fully on the rework of the interface)
+-Implemented a donation message that is server wide.
+-Implemented my Channel World message system(TODO: implement channel icons)
+-Disabled teleporting to the Slayer Tower for the time being
+-Potion of aggression timer is now 15 minutes per sip(Was 900)
+-Implemented my TriviaBot System, and TriviaBot Data Container.
+~50 new Questions to be answered.
+-Fixed instances nulling player on leaving, or dying.
+-Fixed up the npc spawning of instance to spawn in a 4x4 Grid.
+
+-Fixed an issue that if your inventory was full with drop collector equipped items would vanish.
+
+-Implemented Level System
+~Experience to level = 100*level
+~Maxlevel = 100*(prestige+1)
+~Cash per level reward = 100*level
+~Prestige rewards to come
+-Possible fixed the multiple names in ClanChat
+
+-Removed Old Achievement inerface data from being sent to client
+-Fixed an issue that was nulling the server(Possibly)
+-Implemented the quest tab assets
+-Implemented the new Summoning tab assets
+-Implemented CharacterSummary Quest Tab viewer
+-Implemented specific updating of CharacterSummary Quest Tab(Performance saving)
+-Fixed melee attack speeds.
+-Fixed an issue that caused the new interface to not update the tabs correctly.
+
+-Implemented new models into the cache
+-Fixed rarity of rares from Spins
+-Fixed combat calculations to be more inline with RS
+-Implemented a system to reload aoe data

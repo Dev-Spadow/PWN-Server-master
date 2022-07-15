@@ -1,0 +1,56 @@
+package com.arlania.world.content.droptable;
+
+public enum DropTableSavedNPCs {
+    ZOMBIE_KID(11204),
+    MANIAC_BABY(11382),
+    NISHIMAYA(11369),
+    KILLING_MACHINE(11307),
+    SHADOWLORD(11380),
+    MR_INCREDIBLE(12833),
+    LIGHTREAPERS(51),
+    SIRENIC_OGRES(2783),
+    HERCULES(17),
+    CRASH(12839),
+    HADES(15),
+    CHARIZARD(1982),
+    JINIS(9994),
+    GODZILLA(9932),
+    BLOATED_INFERNAL(1999),
+    ZEUS(16),
+    DARTH_VADER(11),
+    DANTES_SATAN(6303),
+    RICK(9273),
+    KING_KONG(9903),
+    LUCID_DRAGONS(9247),
+    HULK(8493),
+    DARK_WIZARDS(9203),
+    HEATED_PYROS(172),
+    DARK_PURPLE_WYRM(9935),
+    TRINITY(170),
+    HERBAL_ROUGE(219),
+    EXODEN(12239),
+    STORM_BREAKER(527),
+    APOLLO_RANGER(1684),
+    NOXIOUS_TROLL(5957),
+    AZAZEL_BEAST(5958),
+    RAVANA(5959),
+    LUMINITIOUS_WARRIORS(185),
+    CUSTOM_HELLHOUNDS(6311),
+    RAZORSPAWN(2907),
+    DREAMFLOW_ASSASSIN(20),
+    KING_KHIONE(259),
+    SABLE(1123),
+    DEMOGORGON(12836),
+    YOSHI(8548),
+    ;
+
+    private int npcId;
+
+    DropTableSavedNPCs(int npcId) {
+        this.npcId = npcId;
+    }
+
+    public int getNpcId() {
+        return npcId;
+    }
+}

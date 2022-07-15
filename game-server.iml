@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="apache.commons.compress" level="project" />
+    <orderEntry type="library" name="google.code.gson" level="project" />
+    <orderEntry type="library" name="io.netty" level="project" />
+    <orderEntry type="library" name="google.guava" level="project" />
+    <orderEntry type="library" name="xpp3" level="project" />
+    <orderEntry type="library" name="xpp3.xpp3_min" level="project" />
+    <orderEntry type="library" name="apache.commons.lang3" level="project" />
+    <orderEntry type="library" name="mysql.connector.java" level="project" />
+    <orderEntry type="library" name="one.util.streamex" level="project" />
+    <orderEntry type="library" name="moandjiezana.toml.toml4j" level="project" />
+    <orderEntry type="library" name="Motivote-server" level="project" />
+    <orderEntry type="library" name="motiservice-api-1-0-2" level="project" />
+    <orderEntry type="library" name="everythingrs-api" level="project" />
+    <orderEntry type="library" name="JDA-4.2.0_168" level="project" />
+    <orderEntry type="library" name="jetbrains.annotations" level="project" />
+    <orderEntry type="library" name="fasterxml.jackson.core.databind" level="project" />
+    <orderEntry type="library" name="fasterxml.jackson.core" level="project" />
+    <orderEntry type="library" name="apache.commons.collections4" level="project" />
+    <orderEntry type="library" name="teamgames-api" level="project" />
+    <orderEntry type="library" name="lombok" level="project" />
+  </component>
+</module>

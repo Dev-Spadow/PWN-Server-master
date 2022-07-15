@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Motivote-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Motivote-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/motiservice-api-1-0-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
